@@ -1,0 +1,5 @@
+Il·lustracions de Zero (direcció d'art A, vectorial càlid).
+Generades amb Canva (IA) a partir d'una sola imatge de referència d'estil: el mapa de la galàxia.
+Originals i disseny "Recursos gràfics de Zero" a la carpeta de Canva "Zero · Mates a l'espai".
+Fons (bg-*.webp): 1920x1080. Personatges i objectes (zero-*, amic-*, item-*): fons transparent.
+Els Numerets NO són imatges: es dibuixen amb codi seguint numerets-concepte-1280.webp.
